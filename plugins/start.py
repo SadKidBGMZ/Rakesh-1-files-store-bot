@@ -89,12 +89,12 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton('🍿 𝐌𝐨𝐯𝐢𝐞𝐳 𝐔𝐩𝐝𝐚𝐭𝐞𝐳 🍿', url='https://t.me/Bgm_linkzz'),
+            InlineKeyboardButton('🧞‍♀️ 𝐏𝐓𝐃_𝐋𝐢𝐧𝐤𝐙 🧞‍♂️', url='https://t.me/ptd_linkz'),
             InlineKeyboardButton('🐼 𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐳 🐼', url='https://t.me/happyKidBGMZ')
             ],[      
-            InlineKeyboardButton('💠 𝐌𝐨𝐫𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐳 💠', url='https://linktr.ee/HappyKidBGMZ')
+            InlineKeyboardButton('🍿 𝐌𝐨𝐯𝐢𝐞𝐳 🎬 𝐔𝐩𝐝𝐚𝐭𝐞𝐳 🍿', url='https://t.me/+Tliye5lhVS1lZTU9')
             ],[
-            InlineKeyboardButton('♠ 𝐀𝐁𝐎𝐔𝐓 ♠', callback_data='help'),
+            InlineKeyboardButton('👻 𝐀𝐁𝐎𝐔𝐓 👻', callback_data='about'),
             InlineKeyboardButton('↪️ 𝐂𝐋𝐎𝐒𝐄 ↩️', callback_data='close')
         ]]
         )
